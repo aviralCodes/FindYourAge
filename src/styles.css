@@ -3,6 +3,11 @@
   text-align: center;
   color: green;
 }
+.party-popper {
+  height: 600px;
+  width: 600px;
+  margin-left: 15%;
+}
 .heading {
   background-color: aqua;
   padding: 20px;

@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: green;
+}
+.heading {
+  background-color: aqua;
+  padding: 20px;
+  height: 80px;
+  color: Blue;
+}
+.fades {
+  animation-name: fade-in;
+  animation-duration: 2s;
+}
+
+.age-stats {
+  opacity: 100;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 100;
+  }
+}

@@ -1,5 +1,5 @@
 import React from "react";
-import partyPopper from "./party-popper.jpg";
+import partyPopper from "./images/party-popper.jpg";
 
 function timeSince(date) {
   let today = new Date().getTime();
